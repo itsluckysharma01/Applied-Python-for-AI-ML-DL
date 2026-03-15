@@ -428,5 +428,6 @@ _Document your learning journey here!_
 
 _"The only way to learn mathematics is to do mathematics."_ - Paul Halmos  
 _"The same applies to Machine Learning!"_ - Lucky Sharma
+- very Good for start carrier in Machine Learning 
 
 </div>
